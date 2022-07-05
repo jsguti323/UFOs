@@ -1,6 +1,6 @@
 # UFO Sightings
 ## Overview
-Are we lone in the universe? We have designed an interactive webpage that attempts to answer that question. The wepage allows the user to search for UFO sightings in various geographical locations. The user has access to a table of UFO sighting data, and they have the option to filter the data by date of the sighting, city, state, country, duration, and even by shape of the UFO. We designed and modified the appearance of the webpage through use of JavaScipt, HTML, CSS, and Bootstrap.
+Are we alone in the universe? We have designed an interactive webpage that attempts to answer that question. The wepage allows the user to search for UFO sightings in various geographical locations. The user has access to a table of UFO sighting data, and they have the option to filter the data by date of the sighting, city, state, country, duration, and even by shape of the UFO. We designed and modified the appearance of the webpage through use of JavaScipt, HTML, CSS, and Bootstrap.
 
 ## Results
 ### Unfiltered Table
